@@ -50,15 +50,9 @@ The Small Student Organizer  is a Windows Forms application developed in C#. Thi
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or need further assistance, feel free to contact me at [typerstudent3@gmail.com].
+and feel free to contact me at [typerstudent3@gmail.com].
 
 ---
 
